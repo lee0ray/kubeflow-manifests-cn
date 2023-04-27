@@ -9,6 +9,6 @@ resources:
 commonLabels:
   app: cache-server
 images:
-  - name: gcr.io/ml-pipeline/cache-server
+  - name: gcr.lank8s.cn/ml-pipeline/cache-server
     newName: docker.io/aipipeline/cache-server
     newTag: 1.5.1

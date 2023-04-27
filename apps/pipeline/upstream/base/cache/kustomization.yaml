@@ -9,5 +9,5 @@ resources:
 commonLabels:
   app: cache-server
 images:
-  - name: gcr.io/ml-pipeline/cache-server
+  - name: gcr.lank8s.cn/ml-pipeline/cache-server
     newTag: 2.0.0-alpha.7
